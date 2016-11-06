@@ -1,0 +1,7 @@
+.content-fixed {
+     width: 100%;
+     left: 20%;
+     background-color: #ffffff;
+     position:fixed;
+     overflow:auto
+}
