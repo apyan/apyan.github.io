@@ -1,7 +1,9 @@
 .content-fixed {
-     width: 100%;
+     width: 80%;
+     height: 100%;
      left: 20%;
      background-color: #ffffff;
      position:fixed;
-     overflow:auto
+     overflow:scroll;
+     overflow-x: hidden;
 }
