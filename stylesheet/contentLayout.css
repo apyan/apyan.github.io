@@ -7,3 +7,39 @@
      overflow:scroll;
      overflow-x: hidden;
 }
+
+.beachbody-logo {
+     padding-top: 0.75em;
+     padding-bottom: 0.10em;
+     width: 27.0em;
+     height: 4.20em;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.saambaa-logo {
+     padding-top: 0.75em;
+     padding-bottom: 0.10em;
+     width: 20.0em;
+     height: 4.20em;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.boxed-message {
+     width: 40%;
+     padding:1.00em 1.00em;
+     color: grey;
+     background-color: white;
+     border: black 0.20em solid;
+}
+
+.boxed-experience {
+     width: 90%;
+     padding:0.25em 0.45em;
+     color: grey;
+     background-color: white;
+     border: black 0.20em solid;
+}
