@@ -28,6 +28,13 @@
      margin-right: auto;
 }
 
+.android-logo {
+     padding-top: 1.0em;
+     padding-bottom: 1.0em;
+     width: 5.0em;
+     height: 5.0em;
+}
+
 .boxed-message {
      width: 40%;
      padding:1.00em 1.00em;
@@ -42,4 +49,8 @@
      color: grey;
      background-color: white;
      border: black 0.20em solid;
+}
+
+.blocked-row {
+     display: inline-block;
 }
